@@ -1,0 +1,16 @@
+.heading{
+    width:100%;
+    margin:0px;
+    box-shadow:7px 5px 5px dimgrey;
+}
+.span1{
+    color: mediumspringgreen;
+}
+.bruh_no{
+    position:fixed;
+    width:100%;
+    background-color:mediumturquoise;
+    color: moccasin;
+    bottom: 0;
+    text-align: center;
+}
